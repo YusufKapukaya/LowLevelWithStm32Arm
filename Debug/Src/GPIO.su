@@ -1,0 +1,8 @@
+../Src/GPIO.c:10:6:gpioClockEnable	16	static
+../Src/GPIO.c:31:6:gpioWritePin	16	static
+../Src/GPIO.c:39:6:gpioWritePort	16	static
+../Src/GPIO.c:43:6:gpioReadPin	16	static
+../Src/GPIO.c:47:10:gpioReadPort	16	static
+../Src/GPIO.c:51:6:gpioToggle	16	static
+../Src/GPIO.c:59:12:getPortInfo	16	static
+../Src/GPIO.c:83:6:gpioInit	40	static

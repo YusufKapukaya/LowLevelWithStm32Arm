@@ -1,0 +1,5 @@
+../Src/TIMER.c:16:13:timerClockEnable	15
+../Src/TIMER.c:49:6:timerInit	1
+../Src/TIMER.c:60:6:timerReset	1
+../Src/TIMER.c:67:6:timerStartStop	2
+../Src/TIMER.c:77:6:timerInterruptConfig	1

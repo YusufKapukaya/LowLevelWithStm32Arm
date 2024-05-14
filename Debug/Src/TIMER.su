@@ -1,0 +1,5 @@
+../Src/TIMER.c:16:13:timerClockEnable	16	static
+../Src/TIMER.c:49:6:timerInit	32	static
+../Src/TIMER.c:60:6:timerReset	24	static
+../Src/TIMER.c:67:6:timerStartStop	24	static
+../Src/TIMER.c:77:6:timerInterruptConfig	24	static

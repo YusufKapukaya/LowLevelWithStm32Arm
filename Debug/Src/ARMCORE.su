@@ -1,0 +1,5 @@
+../Src/ARMCORE.c:12:6:nvicInterruptEnable	16	static
+../Src/ARMCORE.c:22:6:nvicInterruptDisable	16	static
+../Src/ARMCORE.c:33:6:systickConfig	16	static
+../Src/ARMCORE.c:43:9:getClock	4	static
+../Src/ARMCORE.c:48:6:SysTick_Handler	4	static
